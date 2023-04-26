@@ -14,6 +14,7 @@ export default {
 </template>
 
 <style scoped>
+
     h2 {
         color: white;
         will-change: filter;
@@ -21,7 +22,7 @@ export default {
     }
 
     h2:hover {
-        filter: drop-shadow(0 0 1em rgb(213, 19, 58));
+        filter: drop-shadow(1px 1px 1em rgb(147, 106, 254));
         cursor: pointer;
     }
 
